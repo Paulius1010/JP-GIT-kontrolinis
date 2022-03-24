@@ -1,0 +1,1 @@
+# JP-GIT-kontrolinis
