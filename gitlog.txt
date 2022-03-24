@@ -1,0 +1,15 @@
+* c0b072a paskutinis komitas
+*   efd5bf9 Merge pull request #1 from Paulius1010/grupes-numeris
+|\  
+| *   d23d142 fixed conflicts
+| |\  
+| |/  
+|/|   
+* | 17e6035 Update studentas.txt
+| * 5796194 irasytas grupes numeris
+|/  
+*   f7ab5e3 Merge branch 'main' of github.com:Paulius1010/JP-GIT-kontrolinis
+|\  
+| * 2915914 Initial commit
+* e6c0679 irasyta pavarde
+* 44f66bc irasytas vardas

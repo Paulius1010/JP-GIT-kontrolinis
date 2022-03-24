@@ -1,0 +1,500 @@
+   67  git commit -m "fixed some links"
+   68  git push origin raphaelfix2
+   69  exit
+   70  git checkout -b contacts
+   71  git add .
+   72  git status
+   73  git commit -m "contacts webpage is created"
+   74  git push origin contacts
+   75  git switch main
+   76  git pull origin main
+   77  exit
+   78  git pull origin main
+   79  git branch -d contacts
+   80  git branch -d raphael
+   81  exit
+   82  git init
+   83  git add .
+   84  git status
+   85  git commit -m"atsiskaitymas"
+   86  git remote add origin git@github.com:Paulius1010/JS.git
+   87  git push -u origin main
+   88  git branch master main
+   89  git branch -m master main
+   90  git push -u origin main
+   91  exit
+   92  git add .
+   93  git status
+   94  git commit -m "finished registration form"
+   95  git branch -c second
+   96  git branch second
+   97  git switch second
+   98  git add .
+   99  git status
+  100  git commit -m "deleted separate files"
+  101  git ADD .
+  102  GIT STATUS
+  103  git add .
+  104  git status
+  105  git commit -m "FINISHED WORK"
+  106  git push origin main
+  107  exit
+  108  git init
+  109  git init folder1
+  110  git init folder2
+  111  cd folder1
+  112  git status
+  113  git add .
+  114  git status
+  115  git commit -m "komitas"
+  116  cd ..
+  117  cd folder2
+  118  git clone git@github.com:Paulius1010/firstrepository.git
+  119  cd firstrepository
+  120  git remote -v
+  121  git status
+  122  git add .
+  123  git status
+  124  git commit -m "kkoommiittaass"
+  125  git status
+  126  git push main
+  127  git push origin main
+  128  git status
+  129  git add .
+  130  git commit -m "gitignore check"
+  131  git push origin main
+  132  git branch experiment
+  133  git git branch -v
+  134  git branch -v
+  135  git log
+  136  g
+  137  ggi
+  138  git log
+  139  git branch -v
+  140  git checkout experiment
+  141  git add .
+  142  git commit -m "1"
+  143  git switch main
+  144  git add .
+  145  git commit -m "2"
+  146  git checkout experiment
+  147  git switch main
+  148  git log --graph
+  149  git 
+  150  g
+  151  g
+  152  git branch -v
+  153  git log --graph -oneline
+  154  ggit status
+  155  git branch --oneline
+  156  git log --oneline
+  157  git branch --oneline
+  158  git log -branch --oneline
+  159  alias -l
+  160  exit
+  161  git init
+  162  git
+  163  git branch -m master main
+  164  git
+  165  git remote add origin git@github.com:Paulius1010/IT_Academy.git
+  166  git remote -v
+  167  git add .
+  168  git status
+  169  git add .
+  170  git status
+  171  git commit -m "OOP 4 tasks added"
+  172  git push origin main
+  173  exit
+  174  git add .
+  175  git status
+  176  git add .
+  177  git status
+  178  git commit -m "separate projects"
+  179  git push origin main
+  180  exit
+  181  git pull origin main
+  182  git commit -am "test"
+  183  git push origin main
+  184  git pull
+  185  git pull origin main
+  186  git add .
+  187  git status
+  188  git add .
+  189  git status
+  190  git commit -m "Basics 1 uploading"
+  191  git push origin main
+  192  git add .
+  193  git status
+  194  git commit -m "Basics 2 uploading"
+  195  git push origin main
+  196  exit
+  197  git add FirsSpringProject.zip
+  198  git add FirstSpringProject.zip
+  199  git commit -m "Beans implementation"
+  200  git add Hello-world-calc-po-migracijos.zip
+  201  git commit -m "migration"
+  202  git push origin main
+  203  exit
+  204  git init
+  205  git branch -c master main
+  206  git branch -r master main
+  207  git branch -m master main
+  208  cd Homework
+  209  git clone https://github.com/rapolassa/ITAcademy2022.git
+  210  git branch new_task
+  211  git branch -b new-task
+  212  git checkout -b new_task
+  213  git pull origin new_task
+  214  git pull origin main
+  215  git pull new_task
+  216  git pull main
+  217  git pull origin new_task
+  218  git pull new_task
+  219  git branch -m main master
+  220  git switch main
+  221  git branch
+  222  git branches
+  223  git branch -b
+  224  git checkout main
+  225  git branch
+  226  git branch -r
+  227  git switch main
+  228  git switch master
+  229  git -d new_task
+  230  exit
+  231  git init
+  232  git remote add git@github.com:rapolassa/ITAcademy2022.git
+  233  git remote -v
+  234  git remote add origin git@github.com:rapolassa/ITAcademy2022.git
+  235  git remote -v
+  236  git pull origin master
+  237  git checkout -b new_task
+  238  git pull origin new_task
+  239  git status
+  240  git status
+  241  git add .
+  242  git commit -m "."
+  243  git status
+  244  git pull origin new_task
+  245  git pull new_task
+  246  exit
+  247  git init
+  248  git clone https://github.com/rapolassa/ITAcademy2022.git
+  249  git branch -v
+  250  git remote -v
+  251  git clone https://github.com/rapolassa/ITAcademy2022/tree/new_task
+  252  git branch --remotes
+  253  git remote -v
+  254  git remote add newFolder git@github.com:rapolassa/ITAcademy2022.git
+  255  git remote -v
+  256  git pull origin master
+  257  git pull master
+  258  exit
+  259  git init
+  260  git clone https://github.com/rapolassa/ITAcademy2022.git --branch new_task
+  261  EXIT
+  262  exit
+  263  git status
+  264  git add .
+  265  git status
+  266  git commit -m "Collection exercises"
+  267  git status
+  268  git push origin main
+  269  exit
+  270  git branch -b collectionUpdate
+  271  git branch collectionUpdate
+  272  git branch
+  273  git switch collectionUpdate
+  274  git status
+  275  git status
+  276  git add .
+  277  git commit -m "deleted old folder"
+  278  git push origin collectionUpdate
+  279  git switch main
+  280  git switch main
+  281  git add .
+  282  git status
+  283  git commit -m "deleted old collections folder from main local"
+  284  git add .
+  285  git status
+  286  git commit -m "collections update"
+  287  git push origin main
+  288  git add .
+  289  git status
+  290  git commit -m "deleting before required pull"
+  291  git status
+  292  git pull origin main
+  293  git status
+  294  git add .
+  295  git status
+  296  git commit -m "collections update 2"
+  297  git pull origin main
+  298  git push origin main
+  299  exit
+  300  git pull origin main
+  301  git switch -b daynight
+  302  git checkout -b daynight
+  303  exit
+  304  git init
+  305  git clone https://gitexercises.fracz.com/git/exercises.git
+  306  cd exercises
+  307  git start
+  308  ./configure.sh
+  309  git start
+  310  git verify
+  311  git start next
+  312  git add A.txt
+  313  git status
+  314  git commit -m "added A.txt"
+  315  git verify
+  316  git start next
+  317  git status
+  318  git reset
+  319  git status
+  320  git add A.txt
+  321  git commit -m "added A.txt again"
+  322  git verify
+  323  git start next
+  324  git add .gitignore
+  325  git status
+  326  git commit -m "added .gitignore file"
+  327  git verify
+  328  git add .gitignore
+  329  git status
+  330  git commit -m "gitignore file modified"
+  331  git verify
+  332  git add .gitignore
+  333  git commit -m "gitignore file updated 2"
+  334  git verify
+  335  git start next
+  336  git merge escaped
+  337  git verify
+  338  git merge another-piece-of-work
+  339  git merge
+  340  git merge another-piece-of-work
+  341  git switch another-piece-of-work
+  342  git checkout another-piece-of-work
+  343  git switch merge-conflict
+  344  git switch chase-branch
+  345  git merge merge-conflict
+  346  git status
+  347  git status
+  348  git add .
+  349  git commit -m "merge conflict"
+  350  git status
+  351  git verify
+  352  git merge another-piece-of-work
+  353  gitbranch
+  354  git branch
+  355  git merge merge-conflict
+  356  git verify
+  357  git reset -soft
+  358  git reset --soft
+  359  git commit
+  360  git verify
+  361  git log
+  362  580305af56a464a71c934fd19f9b0fc8ce0203f
+  363  4580305af56a464a71c934fd19f9b0fc8ce0203fgit reset --hard HEAD~1git 
+  364  git checkout 544cbbc406c8942e56cc72b2867b3d4663da4f06
+  365  git merge merge-conflict
+  366  git status
+  367  git add .
+  368  git status
+  369  git commit -m "resolving conflicts"
+  370  git branch
+  371  git switch chase-branch
+  372  git verify
+  373  git checkout 544cbbc406c8942e56cc72b2867b3d4663da4f06
+  374  git merge merge-conflict
+  375  git add .
+  376  git commit
+  377  git verify
+  378  git switch chase-branch
+  379  git verify
+  380  git checkout 544cbbc406c8942e56cc72b2867b3d4663da4f06
+  381  git merge
+  382  git switch chase-branch
+  383  git merge 544cbbc
+  384  git merge merge-conflict
+  385  git checkout 544cbbc406c8942e56cc72b2867b3d4663da4f06
+  386  git merge merge-conflict
+  387  git --abort
+  388  git -abort
+  389  git merge --abort
+  390  git switch chase-branch
+  391  git merge 544cbbc
+  392  git logs
+  393  git log
+  394  git start previous
+  395  git start next
+  396  git branch
+  397  git merge another-piece-of-work
+  398  git add .
+  399  git commit -m "merge conflift"
+  400  git verify
+  401  git start next
+  402  git stash
+  403  git status
+  404  git status
+  405  git commit -m "bugfix"
+  406  git add .
+  407  git commit -m "bugfix"
+  408  git stash pop
+  409  git add .
+  410  git commit -m "commit after bugfix"
+  411  git verify
+  412  git start next
+  413  exit
+  414  git clone git@github.com:Paulius1010/React_assignments.git
+  415  git status
+  416  cd REACT_assignments
+  417  git status
+  418  git add .
+  419  git commit -m "Uploading assignment 1"
+  420  git status
+  421  git push
+  422  exit
+  423  git status
+  424  git add .
+  425  git commit -m "Uploading assignment 2"
+  426  git push
+  427  exit
+  428  git status
+  429  git add .
+  430  git commit -m "day/night effect implementation begins"
+  431  git push origin daynight
+  432  exit
+  433  git switch main
+  434  git pull
+  435  exit
+  436  ng serve
+  437  ng serve
+  438  exit
+  439  ng new angular-app-hw
+  440  cd angular-app-hw
+  441  git branch -c master main
+  442  git branch -b master main
+  443  git branch -m master main
+  444  git branch
+  445  git switch main
+  446  git branch -D master
+  447  ng generate component container
+  448  ng generate component payment
+  449  exit
+  450  ng serve
+  451  exit
+  452  git status
+  453  git add .
+  454  git commit -m "Angular HW1"
+  455  git push
+  456  git push prigin main
+  457  git push origin main
+  458  exit
+  459  git clone git@github.com:kyskiz/it-academy-angular.git
+  460  exit
+  461  ng serve
+  462  ng serve
+  463  exit
+  464  git clone git@github.com:kyskiz/it-academy-angular.git
+  465  cd it-academy-angular
+  466  ng i
+  467  ng install
+  468  ng init
+  469  git checkout live
+  470  npm i
+  471  npm i
+  472  git pull origin live
+  473  npm i
+  474  git clone git@github.com:kyskiz/it-academy-angular.git
+  475  cd it-academy-angular
+  476  git checkout live
+  477  exit
+  478  ng serve
+  479  exit
+  480  git clone git@github.com:DariusPa/itacademybudget.git
+  481  exit
+  482  git status
+  483  git add .
+  484  git commit -m "React assignment 3"
+  485  git push
+  486  git status
+  487  git add .
+  488  git commit -m "React assignment 3 update"
+  489  git checkout -b update
+  490  git push origin update
+  491  exit
+  492  git clone git@github.com:ZilvinasVysniauskas/budget-itacademy.git
+  493  cd budget-itacademy
+  494  exit
+  495  git clone git@github.com:DariusPa/itacademybudget.git
+  496  cd itacademybudget
+  497  git checkout task-3
+  498  exit
+  499  ng g c expense-item
+  500  exit
+  501  git init
+  502  git commit -am "irasytas vardas"
+  503  git status
+  504  git add .
+  505  git commit -m "irasytas vardas"
+  506  git add .
+  507  git commit -m "irasyta pavarde"
+  508  git status
+  509  git log
+  510  git branch -m master main
+  511  git log
+  512  git remote add git@github.com:Paulius1010/JP-GIT-kontrolinis.git
+  513  git remote add JP-GIT-kontrolinis git@github.com:Paulius1010/JP-GIT-kontrolinis.git
+  514  git remote -v
+  515  git push origin master
+  516  git push
+  517  git push JP-GIT-kontrolinis
+  518  git fetch JP-GIT-kontrolinis
+  519  git branch -v
+  520  git branches
+  521  git branch
+  522  git push JP-GIT-kontrolinis
+  523  git remote -v
+  524  git status
+  525  git push
+  526  git push JP-GIT-kontrolinis
+  527  git push --help
+  528  git push origin main
+  529  git push main
+  530  git push JP-GIT-kontrolinis main
+  531  git pull
+  532  git pull JP-GIT-kontrolinis
+  533  git pull JP-GIT-kontrolinis main
+  534  git push JP-GIT-kontrolinis
+  535  git branch -m main master
+  536  git remote
+  537  git branch -m master main
+  538  git checkout -b newbranch
+  539  git pull JP-GIT-kontrolinis main
+  540  git checkout main
+  541  git branch -D newbranch
+  542  git pull origin main --allow-unrelated-histories
+  543  git pull main --allow-unrelated-histories
+  544  git pull JP-GIT-kontrolinis main --allow-unrelated-histories
+  545  git push
+  546  git push JP-GIT-kontrolinis
+  547  git checkout -b grupes-numeris
+  548  git add .
+  549  git status
+  550  git commit -m "irasytas grupes numeris"
+  551  git pull
+  552  git pull JP-GIT-kontrolinis
+  553  git switch main
+  554  git pull JP-GIT-kontrolinis main
+  555  git switch grupes-numeris
+  556  git merge main
+  557  git add .
+  558  git commit -m "fixed conflicts"
+  559  git push JP-GIT-kontrolinis grupes-numeris
+  560  git switch main
+  561  git pull
+  562  git pull JP-GIT-kontrolinis main
+  563  git branch -d grupes-numeris
+  564  git add .
+  565  git commit -m "paskutinis komitas"
+  566  history>history.txt
